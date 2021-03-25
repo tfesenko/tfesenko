@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**tfesenko/tfesenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 I'm Tanya!
+- 😄 Pronouns: She/Her
+- 🥭 I'm a backend developer solving global food waste with better data [at Crisp](https://www.gocrisp.com/blog/spotlight-tanya-fesenko).
+- 🎓 I love learning:
+  - 👩‍💻 I received my master's degree in Computer Science and Mathematics the St Petersburg State University
+  - 💡 I hold a graduate-level certificate in Innovation and Entrepreneurship from Harvard.
+- 🤝  I also love sharing my knowledge with others:
+  - Created two courses at Packt: "Java Concurrency and Multithreading in Practice" and "Java SE New Features: Covers Versions 9, 10, 11, and 12"
+  - 📚 I am a manuscript reviewer at Manning
+- 🥐  Fun fact: I grew up in Russia 🇷🇺, but I'm a first-generation French 🇫🇷 citizen  🥖 🧀 🍷 

@@ -6,5 +6,5 @@
   - 💡 I hold a graduate-level certificate in Innovation and Entrepreneurship from Harvard.
 - 🤝  I also love sharing my knowledge with others:
   - Created two courses at Packt: "Java Concurrency and Multithreading in Practice" and "Java SE New Features: Covers Versions 9, 10, 11, and 12"
-  - 📚 I am a manuscript reviewer at Manning
+  - 📚 I regularly review manuscripts and provide other feedback for Manning
 - 🥐  Fun fact: I grew up in Russia 🇷🇺, but I'm a first-generation French 🇫🇷 citizen  🥖 🧀 🍷 

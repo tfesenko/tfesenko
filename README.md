@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Tanya!
 - 😄 Pronouns: She/Her
-- 🥭 I'm a backend developer solving global food waste with better data [at Crisp](https://www.gocrisp.com/blog/spotlight-tanya-fesenko).
+- 🥭 I'm a backend developer solving global [food waste with better data at Crisp](https://www.gocrisp.com/blog/spotlight-tanya-fesenko).
 - 🎓 I love learning:
   - 👩‍💻 I received my master's degree in Computer Science and Mathematics from the St Petersburg State University
   - 💡 I [hold a graduate-level certificate](https://tanya-fesenko.medium.com/my-harvard-extension-school-journey-b98590b8cc44) in Innovation and Entrepreneurship from Harvard.

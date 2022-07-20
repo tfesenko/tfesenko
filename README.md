@@ -9,4 +9,4 @@
 - 🤝  I also love sharing my knowledge with others:
   - ☕ Author of two courses at Packt: ["Java Concurrency and Multithreading in Practice"](https://www.packtpub.com/application-development/java-concurrency-and-multithreading-practice-video) and ["Java SE New Features: Covers Versions 9, 10, 11, and 12"](https://www.packtpub.com/application-development/java-se-new-features-covers-versions-9-10-11-and-12-video);
   - 📚 I regularly [review manuscripts and provide other feedback for Manning](https://tanya-fesenko.medium.com/should-you-be-a-manning-reviewer-heres-why-i-am-b67ae0fb5158);
-- 🇺🇦 Fun fact: My ancestor, [Samiilo Vasyliovych Velychko](https://paper.dropbox.com/ep/redirect/external-link?url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSamiilo_Velychko&hmac=UEa1iMJ3yN9WgYw0IC3WAhjTNlUROk7G8hLBiPbLaa4%3D), wrote the first systematic presentation of the history of the Ukranian Cossack Hetmanate.
+- 🇺🇦 Fun fact: My ancestor, [Samiilo Vasyliovych Velychko](https://en.wikipedia.org/wiki/Samiilo_Velychko), wrote the first systematic presentation of the history of the Ukranian Cossack Hetmanate.

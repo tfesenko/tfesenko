@@ -9,11 +9,5 @@ With over fifteen years of building advanced systems globally, I now develop the
   - ☕ Author of two courses at Packt: ["Java Concurrency and Multithreading in Practice"](https://www.packtpub.com/application-development/java-concurrency-and-multithreading-practice-video) and ["Java SE New Features: Covers Versions 9, 10, 11, and 12"](https://www.packtpub.com/application-development/java-se-new-features-covers-versions-9-10-11-and-12-video);
   - 📚 I regularly [review manuscripts and provide other feedback for Manning](https://tanya-fesenko.medium.com/should-you-be-a-manning-reviewer-heres-why-i-am-b67ae0fb5158);
 - 🇺🇦 My ancestor [Samiilo Vasyliovych Velychko](https://en.wikipedia.org/wiki/Samiilo_Velychko) wrote the first book describing the history of the Ukrainian Cossacks;
-
-- I specialize in:  
-  ✔ Microservices and cloud computing  
-  ✔ Object-oriented programming (Java, Kotlin)  
-  ✔ Building back-end services and API  
-  ✔ Systems architecture and operations  
-  ✔ Developing data-intensive applications
+- 💬 Talk to me about microservices, cloud computing, back-end services, APIs, and data-intensive applications.
 
